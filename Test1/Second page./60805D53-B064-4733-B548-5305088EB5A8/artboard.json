@@ -1,8 +1,15 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4e73e120-c32a-11e8-9714-8f8b9b6fd858",
+  "do_objectID": "60805D53-B064-4733-B548-5305088EB5A8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +22,57 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 640,
+    "width": 360,
+    "x": -180,
+    "y": -320
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "98B42E1A-D0D5-46D4-9AFE-C3EA2D312DE2"
+      "class": "rectangle",
+      "id": "B64A69C2-ED37-4C90-B852-69D9D8977E59"
     },
     {
-      "class": "artboard",
-      "id": "FB6C9235-19D6-4FAC-8CB2-BE7990F17A76"
+      "class": "text",
+      "id": "1EE4561C-19A9-4463-ACFC-1D3F214A3E59"
+    },
+    {
+      "class": "rectangle",
+      "id": "B99486A3-10E7-4AD3-A3D7-8D96BA9DE742"
     }
   ],
-  "name": "Page 1",
+  "name": "Android",
   "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -60,7 +82,7 @@
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
