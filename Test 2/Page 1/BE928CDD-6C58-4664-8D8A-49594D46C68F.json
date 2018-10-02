@@ -2,10 +2,11 @@
   "_class": "oval",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2674B84F-CDFA-4888-8809-3B6D17E27779",
+  "do_objectID": "BE928CDD-6C58-4664-8D8A-49594D46C68F",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "2F5E8EE4-640C-4ECF-BD95-C44FDA732E9C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,10 +17,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
+    "do_objectID": "4FE255EC-E35A-47D0-9CFC-601DA6EC44FB",
     "height": 46,
     "width": 46,
-    "x": 19,
-    "y": 71
+    "x": 343,
+    "y": 147
   },
   "hasClippingMask": false,
   "isClosed": true,
@@ -29,7 +31,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Oval",
+  "name": "Oval Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -96,6 +98,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "3779374C-0D9B-4A9A-AEB1-CF940B813C12",
     "endMarkerType": 0,
     "fills": [
       {
@@ -103,9 +106,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.8790007829666138,
-          "green": 0.06114692240953445,
-          "red": 0.7398750185966492
+          "blue": 0.1066960170865059,
+          "green": 0.007513228338211775,
+          "red": 0.816203773021698
         },
         "fillType": 0,
         "isEnabled": true,
